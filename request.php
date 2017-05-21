@@ -1,5 +1,4 @@
 <?php
-
 class APIRequest {
 
    //Add method name which is not required login
